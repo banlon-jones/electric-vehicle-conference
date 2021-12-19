@@ -1,9 +1,18 @@
 .logo {
   height: 7.0rem;
 }
+
 .hero {
   padding-top: 5%;
   background-image: url("../images/main_bg.jpg");
   background-size: cover;
   background-position: center;
+}
+
+.main-program {
+  background: url("../images/program_bg.png");
+}
+
+.partners {
+  background-color: #414246;
 }
