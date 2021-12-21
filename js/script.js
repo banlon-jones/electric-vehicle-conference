@@ -42,12 +42,12 @@ let menuBtn = document.querySelector(".menu-button");
 let closeBtn = document.querySelector(".close");
 let menu = document.querySelector('.menu-items');
 
-menuBtn.addEventListener('click', ()=>{
+menuBtn.addEventListener('click', () => {
   menu.style.display = 'block';
   menu.style.visibility = 'visible';
 });
 
-closeBtn.addEventListener('click', ()=>{
+closeBtn.addEventListener('click', () => {
   menu.style.display = 'none';
   menu.style.visibility = 'hidden';
 });
