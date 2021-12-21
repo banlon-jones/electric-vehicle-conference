@@ -94,6 +94,10 @@ body {
   height: 9rem;
 }
 
+.background-dark {
+  background-color: #3e3e3e;
+}
+
 @media screen and (max-device-width: 768px) {
   #join {
     display: block;
