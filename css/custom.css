@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5 {
 
 .intro {
   font-weight: 900;
-  font-size: 5rem;
+  font-size: 4rem;
 }
 
 .date {
@@ -78,4 +78,17 @@ body {
 
 .footer {
   background-color: #2e2e2e;
+}
+
+@media screen and (max-device-width: 768px) {
+
+  #join {
+    display: block;
+    visibility: visible;
+  }
+
+  #join-link {
+    display: none;
+    visibility: hidden;
+  }
 }
