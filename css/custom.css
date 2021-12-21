@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5 {
 
 .intro {
   font-weight: 900;
-  font-size: 4rem;
+  font-size: 3rem;
 }
 
 .date {
@@ -87,7 +87,7 @@ body {
 
 .speaker {
   width: 11.5rem;
-  height: 11rem;
+  height: 9rem;
 }
 
 @media screen and (max-device-width: 768px) {

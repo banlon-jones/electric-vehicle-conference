@@ -9,13 +9,13 @@ const featuredSpeakers = [
     name: 'Mary Teresa Barra',
     image: 'images/GMC-ceo.jpg',
     profile: 'American businesswoman who has been the chair and CEO of General Motors',
-    details: 'An American businesswoman who has been the chair and chief executive officer of General Motors since January 15, 2014. She is the first female CEO of a Big Three automaker.'
+    details: 'An American businesswoman who has been the chair and chief executive officer of General Motors since January 15, 2014.'
   },
   {
     name: 'Dara Khosrowshahi',
     image: 'images/uber-ceo.jpg',
     profile: ' businessman and the chief executive officer of Uber',
-    details: 'An Iranian-American businessman and the chief executive officer of Uber. Khosrowshahi was previously CEO of Expedia Group,'
+    details: 'An Iranian-American businessman and the chief executive officer of Uber.'
   },
   {
     name: 'Jonathan Ayache',
@@ -27,13 +27,13 @@ const featuredSpeakers = [
     name: 'Barack Hussein Obama II ',
     image: 'images/obama.jpg',
     profile: 'lawyer, and author who served as the 44th president of the United States from 2009 to 2017',
-    details: 'An American politician, lawyer, and author who served as the 44th president of the United States from 2009 to 2017. A member of the Democratic Party,'
+    details: 'An American politician, lawyer, and author who served as the 44th president of the United States from 2009 to 2017.'
   },
   {
     name: 'Olaf Scholz',
     image: 'images/german-chancellor.jpg',
     profile: 'politician serving as chancellor of Germany since 8 December 2021',
-    details: ' A German politician serving as chancellor of Germany since 8 December 2021. A member of the Social Democratic Party, he previously served as Vice-Chancellor of Germany'
+    details: 'A member of the Social Democratic Party, he previously served as Vice-Chancellor of Germany'
   },
 
 ];
