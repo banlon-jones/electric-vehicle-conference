@@ -80,6 +80,16 @@ body {
   background-color: #2e2e2e;
 }
 
+.mobile-nav {
+  display: none;
+  visibility: hidden;
+}
+
+.speaker {
+  width: 11.5rem;
+  height: 11rem;
+}
+
 @media screen and (max-device-width: 768px) {
 
   #join {
@@ -91,4 +101,33 @@ body {
     display: none;
     visibility: hidden;
   }
+
+  .desktop-nav {
+    display: none;
+  }
+
+  .mobile-nav {
+    display: block;
+    visibility: visible;
+  }
+
+  .menu-items {
+    background-color: #fff;
+    display: none;
+    visibility: hidden;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    height: 100vh;
+    z-index: 35;
+  }
+
+  .close {
+    position: relative;
+    left: 90%;
+    top: 10px;
+  }
+
 }
