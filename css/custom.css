@@ -59,7 +59,7 @@ body {
 }
 
 .bg-transparent-50 {
-  background-color: rgba(255, 255, 255, .30);
+  background-color: rgba(255, 255, 255, 0.3);
 }
 
 .bg-transparent-50:hover {
